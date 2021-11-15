@@ -1,0 +1,2 @@
+include ':app', ':nicepicture'
+rootProject.name='ninepicture'
